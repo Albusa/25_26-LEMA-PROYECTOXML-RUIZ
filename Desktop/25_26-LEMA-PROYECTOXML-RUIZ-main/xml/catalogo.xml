@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Catalogo izena = "VideoKluba" formatoa = "online">
+     <Categoría tipo=”películas”>
+      <Descripción>Películas de distintos géneros disponibles en este videoclub</Descripción>
+      <Contenido id=”PEL001”>
+         <Título>
+         <Genero>
+         <Año>
+         <Duración>
+         <Precio>
+         <Descuento>
+         <Imagen>
+         <URL>
