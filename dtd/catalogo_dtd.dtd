@@ -1,0 +1,32 @@
+
+<!ELEMENT Catalogo (Categoria+)>
+<!ATTLIST Catalogo
+    izena CDATA #REQUIRED
+    formatoa (online | fisico) "online"
+>
+
+<!ELEMENT Categoria (Descripcion, Contenido+)>
+<!ATTLIST Categoria
+    tipo (peliculas | series | documentales) #REQUIRED
+    idioma CDATA #IMPLIED
+>
+
+<!ELEMENT Descripcion (#PCDATA)>
+
+<!ELEMENT Contenido (Titulo, Genero, Año, Duracion, Precio, Descuento, Imagen, URL)>
+<!ATTLIST Contenido
+    id ID #REQUIRED                  
+>
+
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Genero (#PCDATA)>
+<!ELEMENT Año (#PCDATA)>
+<!ELEMENT Duracion (#PCDATA)>
+<!ELEMENT Precio (#PCDATA)>
+<!ELEMENT Descuento (#PCDATA)>
+<!ELEMENT URL (#PCDATA)>
+
+<!ELEMENT Imagen (#PCDATA)>
+<!ATTLIST Imagen
+    funcion (poster | banner | miniatura) "poster"  
+>

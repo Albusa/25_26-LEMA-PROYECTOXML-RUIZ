@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo_1.xsl"?>
+<Catalogo izena="VideoKluba" formatoa="online"> 
+    <Categoria tipo="peliculas"> 
+        <Descripcion>Películas de distintos géneros disponibles en este videoclub</Descripcion> 
+        <Contenido id="PEL001"> 
+            <Titulo>El viaje de Chihiro</Titulo> 
+            <Genero>Animacion</Genero> 
+            <Año>2001</Año> 
+            <Duracion>2h 4m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/el_viaje_de_chihiro.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0245429/</URL> 
+        </Contenido> 
+        <Contenido id="PEL002"> 
+            <Titulo>El Padrino</Titulo> 
+            <Genero>Gangster, Crimen</Genero> 
+            <Año>1972</Año> 
+            <Duracion>2h 55m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/el_padrino.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0068646/</URL> 
+        </Contenido> 
+        <Contenido id="PEL003"> 
+            <Titulo>La ventana indiscreta</Titulo> 
+            <Genero>Comedia oscura</Genero> 
+            <Año>1954</Año> 
+            <Duracion>1h 52m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/la_ventana_indiscreta.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0047396/</URL> 
+        </Contenido> 
+        <Contenido id="PEL004"> 
+            <Titulo>Spiderman</Titulo> 
+            <Genero>Accion, Fantasia</Genero> 
+            <Año>2002</Año> 
+            <Duracion>2h 1m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/Spider_Man_No_Way_Home.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0145487/</URL> 
+        </Contenido> 
+        <Contenido id="PEL005"> 
+            <Titulo>Blue Velvet</Titulo> 
+            <Genero>Thriller, Misterio</Genero> 
+            <Año>1986</Año> 
+            <Duracion>2h</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/blue_velvet.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0090756/</URL> 
+        </Contenido> 
+        <Contenido id="PEL006"> 
+            <Titulo>Cinema Paradiso</Titulo> 
+            <Genero>Drama</Genero> 
+            <Año>1988</Año> 
+            <Duracion>2h 35m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/cineme_paraiso.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0095765/</URL> 
+        </Contenido> 
+    </Categoria> 
+    <Categoria tipo="series"> 
+        <Descripcion>Series disponibles en este videoclub</Descripcion> 
+        <Contenido id="SER001"> 
+            <Titulo>The Wire</Titulo> 
+            <Genero>Drama, Crimen</Genero> 
+            <Año>2002</Año> 
+            <Duracion>5 temporadas, 60 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/the_wire.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0306414/</URL> 
+        </Contenido> 
+        <Contenido id="SER002"> 
+            <Titulo>Breaking Bad</Titulo> 
+            <Genero>Drama, Thriller</Genero> 
+            <Año>2008</Año> 
+            <Duracion>5 temporadas, 62 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/breaking_bad.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0903747/</URL> 
+        </Contenido> 
+        <Contenido id="SER003"> 
+            <Titulo>Bojack Horseman</Titulo> 
+            <Genero>Animacion, Comedia</Genero> 
+            <Año>2014</Año> 
+            <Duracion>6 temporadas, 77 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/bojack_horseman.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt3398228/</URL> 
+        </Contenido> 
+        <Contenido id="SER004"> 
+            <Titulo>Stranger Things</Titulo> 
+            <Genero>Ciencia ficcion, Terror</Genero> 
+            <Año>2016</Año> 
+            <Duracion>4 temporadas, 34 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/stranger_things.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt4574334/</URL> 
+        </Contenido> 
+        <Contenido id="SER005"> 
+            <Titulo>Twin Peaks</Titulo> 
+            <Genero>Misterio, Drama</Genero> 
+            <Año>1990</Año> 
+            <Duracion>3 temporadas, 48 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/twin_peaks.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0098936/</URL> 
+        </Contenido> 
+        <Contenido id="SER006"> 
+            <Titulo>Juego de Tronos</Titulo> 
+            <Genero>Fantasia, Drama</Genero> 
+            <Año>2011</Año> 
+            <Duracion>8 temporadas, 73 capitulos</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/juego_de_tronos.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0944947/</URL> 
+        </Contenido> 
+        <Contenido id="DOC001"> 
+            <Titulo>The Last Dance</Titulo> 
+            <Genero>Documental, Deporte</Genero> 
+            <Año>2020</Año> 
+            <Duracion>10 episodios</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/the_last_dance.jpg</Imagen> 
+            <URL>https://www.imdb.com/title/tt8420184/</URL> 
+        </Contenido> 
+        <Contenido id="DOC002"> 
+            <Titulo>Stop Making Sense</Titulo> 
+            <Genero>Documental, Musica</Genero> 
+            <Año>1984</Año> 
+            <Duracion>1h 28m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/stop_making_sense.jpg</Imagen> 
+            <URL>https://www.imdb.com/title/tt0088178/</URL> 
+        </Contenido> 
+        <Contenido id="DOC003"> 
+            <Titulo>David Attenborough: Océano</Titulo> 
+            <Genero>Documental, Naturaleza</Genero> 
+            <Año>2023</Año> 
+            <Duracion>1h 25m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/david_attenborough_oceano.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt33022710/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_David%2520Attenborough%253A%2520Oc%25C3%25A9ano</URL> 
+        </Contenido> 
+        <Contenido id="DOC004"> 
+            <Titulo>Cutting Through Rocks</Titulo> 
+            <Genero>Documental, Historia</Genero> 
+            <Año>2022</Año> 
+            <Duracion>1h 30m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/cutting_through_rocks.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt10196414/</URL> 
+        </Contenido> 
+        <Contenido id="DOC005"> 
+            <Titulo>Apocalypse in the Tropics</Titulo> 
+            <Genero>Documental, Politica</Genero> 
+            <Año>2024</Año> 
+            <Duracion>1h 49m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/apocalipse_tropicos.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt30012657/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_apocalypse%2520in%2520the%2520</URL> 
+        </Contenido> 
+        <Contenido id="DOC006"> 
+            <Titulo>Paris is Burning</Titulo> 
+            <Genero>Documental, Politica</Genero> 
+            <Año>1990</Año> 
+            <Duracion>1h 18m</Duracion> 
+            <Precio>3.99€</Precio> 
+            <Descuento>5%</Descuento> 
+            <Imagen funcion="poster">../img/paris_is_burning.jpg</Imagen> 
+            <URL>https://www.imdb.com/es/title/tt0100332/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_paris%2520is%2520</URL> 
+        </Contenido> 
+    </Categoria> 
+</Catalogo>
